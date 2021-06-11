@@ -1,0 +1,28 @@
+<dashboard>
+  <label>AD Security Posture</label>
+  <row>
+    <panel>
+      <table>
+        <title>New Users</title>
+        <search ref="New Users"></search>
+        <option name="drilldown">none</option>
+      </table>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <table>
+        <title>Tier 0 Users</title>
+        <search ref="Tier 0 Users"></search>
+        <option name="drilldown">none</option>
+      </table>
+    </panel>
+    <panel>
+      <table>
+        <title>Tier 0 Groups</title>
+        <search ref="Tier 0 Groups"></search>
+        <option name="drilldown">none</option>
+      </table>
+    </panel>
+  </row>
+</dashboard>

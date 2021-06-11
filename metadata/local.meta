@@ -1,0 +1,27 @@
+[app/ui]
+owner = admin
+version = 8.2.0
+modtime = 1623333856.019677000
+
+[app/launcher]
+owner = admin
+version = 8.2.0
+modtime = 1623333856.030270000
+
+[app/package/check_for_updates]
+version = 8.2.0
+modtime = 1623333856.035321000
+
+[]
+access = read : [ * ], write : [ * ]
+export = system
+version = 8.2.0
+modtime = 1622572233.916591000
+
+[indexes/admetrics]
+version = 8.2.0
+modtime = 1622604177.790023000
+
+[views/account_hygiene]
+version = 8.2.0
+modtime = 1623434272.299321000
